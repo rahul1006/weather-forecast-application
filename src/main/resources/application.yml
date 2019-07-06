@@ -1,0 +1,9 @@
+weather:
+  forecast:
+    startHour: 6
+    duration: 12
+    days: 3
+    country: india
+    api:
+      url: https://api.openweathermap.org/data/2.5/forecast
+      key: 9a6256103f48653e6ee8c941a1b7eda4
