@@ -8,7 +8,7 @@ this case study.
 
 ## Start Application
 
-* Execute following command from project **dist** directory.
+* Execute following command from project **output** directory.
   * java -jar weatherForecast-0.0.1-SNAPSHOT.jar
   * [http://localhost:8080/weatherMetrics/Ahmedabad](http://localhost:8080/weatherMetrics/Ahmedabad) (City should be from India only)
   * Temperature is in Celsius and Pressure is in hPa
